@@ -88,3 +88,15 @@ target/
 # Ignore sensitive proxy lists
 Webshare 10 proxies.txt
 *proxies*.txt
+
+# Standard repository hygiene
+.idea/
+.vscode/
+node_modules/
+out/
+coverage/
+.venv/
+venv/
+.env
+.env.*
+reviews.md
